@@ -1,0 +1,7 @@
+{
+    "MY_SLACK_DM_ID": "自分のslackのDMのIDを記載（デバッグ用）",
+    "KINTAI_ID": "勤怠チャンネルのIDを記載（本番用）",
+    "token": "xoxp-から始まるUser OAuth Tokenを記載",
+    "signingSecret": "App CredentialsのSigning Secretを記載",
+    "postChannelId": "投稿したいチャンネルIDを記載"
+}

@@ -1,0 +1,2 @@
+#!/bin/sh
+node --experimental-vm-modules --no-warnings {main.jsのローカルの絶対パスを記入する}
